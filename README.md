@@ -1,3 +1,12 @@
+Hi, my name's Andrew, and I'm an actual real-life American hero.
+
+I, on my own time, created this to help a struggling Jr. learn, even though I didn't have to.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;*-Above section written by the struggling Jr.*
+
+___
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
